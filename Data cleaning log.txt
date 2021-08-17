@@ -1,0 +1,5 @@
+1. Removing Null Data
+2. Format Data Suitable for Analysis
+	a. Extracted Time as start_time from start_date which was DateTime
+	b. Extracted Time as end_time from end_date which was DateTime
+	c. Calculated the travel time by Subtracting start_time & end_time

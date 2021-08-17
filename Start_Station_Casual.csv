@@ -1,0 +1,603 @@
+﻿start_station_name,member_casual,Number_of_Rides
+Lake Shore Dr & Monroe St,casual,196
+Clark St & Elm St,casual,152
+Wells St & Elm St,casual,150
+Wells St & Huron St,casual,135
+Ellis Ave & 60th St,casual,135
+Millennium Park,casual,130
+Michigan Ave & Washington St,casual,123
+Clark St & Grace St,casual,116
+Dearborn St & Erie St,casual,112
+Franklin St & Illinois St,casual,112
+Wells St & Concord Ln,casual,112
+Wells St & Evergreen Ave,casual,109
+Kingsbury St & Kinzie St,casual,109
+Daley Center Plaza,casual,104
+Bissell St & Armitage Ave,casual,104
+Fairbanks Ct & Grand Ave,casual,99
+Clark St & Drummond Pl,casual,98
+Clark St & Armitage Ave,casual,97
+Michigan Ave & Lake St,casual,96
+Michigan Ave & 8th St,casual,95
+Clark St & Wrightwood Ave,casual,95
+Indiana Ave & Roosevelt Rd,casual,95
+State St & Randolph St,casual,94
+Desplaines St & Kinzie St,casual,93
+Clark St & Lincoln Ave,casual,91
+Broadway & Cornelia Ave,casual,91
+Pine Grove Ave & Waveland Ave,casual,91
+Clark St & Newport St,casual,90
+Columbus Dr & Randolph St,casual,90
+Kimbark Ave & 53rd St,casual,89
+Wabash Ave & Grand Ave,casual,88
+Broadway & Barry Ave,casual,87
+Kingsbury St & Erie St,casual,86
+Clinton St & Madison St,casual,85
+Wilton Ave & Belmont Ave,casual,84
+Southport Ave & Waveland Ave,casual,82
+Sedgwick St & North Ave,casual,80
+Wells St & Polk St,casual,80
+Streeter Dr & Grand Ave,casual,80
+Dearborn Pkwy & Delaware Pl,casual,78
+Franklin St & Lake St,casual,78
+Sheffield Ave & Wellington Ave,casual,76
+Stockton Dr & Wrightwood Ave,casual,75
+Federal St & Polk St,casual,75
+Ashland Ave & Division St,casual,74
+Larrabee St & Webster Ave,casual,74
+Orleans St & Merchandise Mart Plaza,casual,74
+Morgan St & Lake St,casual,74
+Wilton Ave & Diversey Pkwy,casual,72
+Michigan Ave & 18th St,casual,71
+LaSalle St & Illinois St,casual,71
+Lakeview Ave & Fullerton Pkwy,casual,71
+Sheridan Rd & Irving Park Rd,casual,71
+Halsted St & Roscoe St,casual,71
+Dusable Harbor,casual,71
+Southport Ave & Roscoe St,casual,70
+Michigan Ave & 14th St,casual,69
+Broadway & Waveland Ave,casual,69
+Clark St & Wellington Ave,casual,68
+Halsted St & Clybourn Ave,casual,68
+Field Blvd & South Water St,casual,65
+Ellis Ave & 55th St,casual,65
+Lake Shore Dr & Belmont Ave,casual,65
+Lake Shore Dr & North Blvd,casual,64
+St. Clair St & Erie St,casual,64
+Sheffield Ave & Waveland Ave,casual,64
+Rush St & Cedar St,casual,64
+Halsted St & Wrightwood Ave,casual,64
+Broadway & Sheridan Rd,casual,64
+Wabash Ave & Wacker Pl,casual,63
+Wabash Ave & Roosevelt Rd,casual,62
+Theater on the Lake,casual,61
+Racine Ave & Belmont Ave,casual,61
+Milwaukee Ave & Grand Ave,casual,59
+Clifton Ave & Armitage Ave,casual,59
+Clark St & Randolph St,casual,59
+Dearborn St & Van Buren St,casual,58
+Lincoln Ave & Belmont Ave,casual,58
+Lincoln Ave & Fullerton Ave,casual,57
+Desplaines St & Jackson Blvd,casual,57
+Canal St & Adams St,casual,57
+Clark St & 9th St (AMLI),casual,56
+Dayton St & North Ave,casual,56
+Greenview Ave & Fullerton Ave,casual,56
+Lincoln Ave & Diversey Pkwy,casual,56
+Lake Shore Dr & Wellington Ave,casual,56
+Rush St & Superior St,casual,56
+Shedd Aquarium,casual,56
+Sheridan Rd & Montrose Ave,casual,55
+LaSalle Dr & Huron St,casual,55
+Michigan Ave & Oak St,casual,55
+Orleans St & Chestnut St (NEXT Apts),casual,54
+Sheffield Ave & Fullerton Ave,casual,54
+Sheffield Ave & Kingsbury St,casual,54
+Ritchie Ct & Banks St,casual,54
+Pine Grove Ave & Irving Park Rd,casual,54
+Clark St & Chicago Ave,casual,54
+Clark St & Schiller St,casual,54
+Franklin St & Jackson Blvd,casual,53
+Desplaines St & Randolph St,casual,53
+Racine Ave & Fullerton Ave,casual,53
+New St & Illinois St,casual,53
+Mies van der Rohe Way & Chestnut St,casual,53
+Lake Shore Dr & Ohio St,casual,52
+Lake Shore Dr & Diversey Pkwy,casual,52
+Wabash Ave & Adams St,casual,52
+Wood St & Milwaukee Ave,casual,52
+Wells St & Hubbard St,casual,51
+Cornell Ave & Hyde Park Blvd,casual,51
+Clinton St & Roosevelt Rd,casual,50
+Sedgwick St & Webster Ave,casual,50
+Kedzie Ave & Milwaukee Ave,casual,50
+LaSalle St & Jackson Blvd,casual,50
+Michigan Ave & Madison St,casual,50
+Michigan Ave & Ida B Wells Dr,casual,49
+Larrabee St & Kingsbury St,casual,49
+University Ave & 57th St,casual,49
+Sheffield Ave & Webster Ave,casual,48
+Ravenswood Ave & Lawrence Ave,casual,48
+Sheridan Rd & Noyes St (NU),casual,48
+Clark St & Winnemac Ave,casual,48
+Damen Ave & Charleston St,casual,48
+Green St & Madison St,casual,48
+Sedgwick St & Huron St,casual,47
+Michigan Ave & Pearson St,casual,47
+McClurg Ct & Erie St,casual,45
+Noble St & Milwaukee Ave,casual,45
+Sheffield Ave & Wrightwood Ave,casual,45
+State St & Kinzie St,casual,45
+Damen Ave & Pierce Ave,casual,45
+Delano Ct & Roosevelt Rd,casual,45
+Clark St & Berwyn Ave,casual,45
+Clarendon Ave & Gordon Ter,casual,45
+Clarendon Ave & Leland Ave,casual,44
+Cityfront Plaza Dr & Pioneer Ct,casual,44
+Stetson Ave & South Water St,casual,44
+Shore Dr & 55th St,casual,44
+Marshfield Ave & Cortland St,casual,43
+Canal St & Madison St,casual,43
+Burling St & Diversey Pkwy,casual,43
+Aberdeen St & Randolph St,casual,43
+Jefferson St & Monroe St,casual,43
+Franklin St & Monroe St,casual,42
+Clinton St & Lake St,casual,42
+Broadway & Belmont Ave,casual,42
+Clarendon Ave & Junior Ter,casual,42
+Rush St & Hubbard St,casual,42
+Southport Ave & Belmont Ave,casual,41
+Larrabee St & Division St,casual,41
+Lincoln Park Conservatory,casual,41
+Clark St & Lake St,casual,41
+Damen Ave & Chicago Ave,casual,41
+Fort Dearborn Dr & 31st St,casual,41
+Franklin St & Chicago Ave,casual,41
+Honore St & Division St,casual,40
+Green St & Randolph St,casual,40
+Damen Ave & Thomas St (Augusta Blvd),casual,40
+LaSalle St & Washington St,casual,40
+Sheffield Ave & Willow St,casual,40
+Winthrop Ave & Lawrence Ave,casual,40
+State St & Van Buren St,casual,39
+Ellis Ave & 58th St,casual,39
+California Ave & Milwaukee Ave,casual,39
+State St & Harrison St,casual,38
+Woodlawn Ave & 55th St,casual,38
+Wells St & Walton St,casual,37
+Sheridan Rd & Buena Ave,casual,37
+Wabash Ave & 9th St,casual,36
+Milwaukee Ave & Wabansia Ave,casual,36
+Ogden Ave & Chicago Ave,casual,36
+Clark St & North Ave,casual,36
+Chicago Ave & Sheridan Rd,casual,36
+Dearborn St & Monroe St,casual,36
+Buckingham Fountain,casual,35
+Broadway & Berwyn Ave,casual,35
+Blackstone Ave & Hyde Park Blvd,casual,35
+Adler Planetarium,casual,35
+Peoria St & Jackson Blvd,casual,35
+Logan Blvd & Elston Ave,casual,35
+Larrabee St & Armitage Ave,casual,35
+Southport Ave & Irving Park Rd,casual,35
+State St & Pearson St,casual,34
+Aberdeen St & Monroe St,casual,34
+Clark St & Leland Ave,casual,34
+Damen Ave & Cortland St,casual,34
+Halsted St & Dickens Ave,casual,34
+Halsted St & Maxwell St,casual,34
+Western Ave & Walton St,casual,34
+Western Ave & Winnebago Ave,casual,33
+Carpenter St & Huron St,casual,33
+Sangamon St & Washington Blvd,casual,33
+Orleans St & Hubbard St,casual,32
+Halsted St & Willow St,casual,32
+Clinton St & Washington Blvd,casual,31
+Mies van der Rohe Way & Chicago Ave,casual,31
+Loomis St & Lexington St,casual,31
+Lincoln Ave & Winona St,casual,30
+Lake Park Ave & 56th St,casual,30
+Michigan Ave & Jackson Blvd,casual,30
+Southport Ave & Wrightwood Ave,casual,30
+Damen Ave & Leland Ave,casual,30
+Wolcott Ave & Polk St,casual,30
+Canal St & Taylor St,casual,29
+Albany Ave & Bloomingdale Ave,casual,29
+Wabash Ave & 16th St,casual,29
+Paulina Ave & North Ave,casual,28
+Leavitt St & North Ave,casual,28
+California Ave & Altgeld St,casual,28
+Clark St & Ida B Wells Dr,casual,28
+Fairbanks St & Superior St,casual,28
+Financial Pl & Ida B Wells Dr,casual,28
+Lincoln Ave & Roscoe St,casual,27
+Marine Dr & Ainslie St,casual,27
+Lakefront Trail & Bryn Mawr Ave,casual,27
+Paulina St & Flournoy St,casual,27
+MLK Jr Dr & 29th St,casual,27
+Southport Ave & Clark St,casual,26
+Canal St & Monroe St,casual,26
+Calumet Ave & 18th St,casual,26
+Ashland Ave & Blackhawk St,casual,26
+Ashland Ave & Grace St,casual,25
+Aberdeen St & Jackson Blvd,casual,25
+Campbell Ave & North Ave,casual,25
+Clinton St & Jackson Blvd,casual,25
+Glenwood Ave & Morse Ave,casual,25
+Leavitt St & Chicago Ave,casual,25
+Larrabee St & North Ave,casual,25
+Wood St & Chicago Ave,casual,25
+Lake Park Ave & 53rd St,casual,24
+May St & Taylor St,casual,24
+Stave St & Armitage Ave,casual,24
+Ellis Ave & 53rd St,casual,24
+Ashland Ave & Grand Ave,casual,24
+900 W Harrison St,casual,23
+Benson Ave & Church St,casual,23
+Broadway & Granville Ave,casual,23
+Clark St & Montrose Ave,casual,23
+Damen Ave & Division St,casual,23
+Field Museum,casual,23
+Humboldt Blvd & Armitage Ave,casual,23
+Wacker Dr & Washington St,casual,23
+Sheridan Rd & Lawrence Ave,casual,23
+Montrose Harbor,casual,23
+Lakefront Trail & Wilson Ave,casual,23
+Kedzie Ave & Palmer Ct,casual,22
+Halsted St & Roosevelt Rd,casual,22
+Clark St & Elmdale Ave,casual,22
+Central Park Ave & Elbridge Ave,casual,22
+California Ave & North Ave,casual,22
+Wood St & Hubbard St,casual,22
+Winchester Ave & Elston Ave,casual,22
+Wood St & Augusta Blvd,casual,22
+Broadway & Ridge Ave,casual,21
+Damen Ave & Grand Ave,casual,21
+Larrabee St & Oak St,casual,21
+Morgan St & 18th St,casual,21
+Shields Ave & 28th Pl,casual,21
+Sheridan Rd & Loyola Ave,casual,20
+Southport Ave & Clybourn Ave,casual,20
+Southport Ave & Wellington Ave,casual,20
+State St & 33rd St,casual,20
+Halsted St & Polk St,casual,20
+Franklin St & Adams St (Temp),casual,20
+Broadway & Thorndale Ave,casual,20
+Blue Island Ave & 18th St,casual,20
+Clark St & Columbia Ave,casual,20
+Clark St & Lunt Ave,casual,20
+Clybourn Ave & Division St,casual,20
+Campbell Ave & Fullerton Ave,casual,19
+Ada St & Washington Blvd,casual,19
+Ashland Ave & Wrightwood Ave,casual,19
+Damen Ave & Foster Ave,casual,19
+Eckhart Park,casual,19
+Western Ave & Division St,casual,19
+Sheridan Rd & Columbia Ave,casual,19
+Rhodes Ave & 32nd St,casual,19
+Leavitt St & Armitage Ave,casual,19
+Lincoln Ave & Belle Plaine Ave,casual,18
+Larrabee St & Menomonee St,casual,18
+Paulina St & 18th St,casual,18
+Valli Produce - Evanston Plaza,casual,18
+Ashland Ave & Wellington Ave,casual,18
+Ashland Ave & Belle Plaine Ave,casual,18
+California Ave & Cortez St,casual,18
+Calumet Ave & 33rd St,casual,18
+Wolcott (Ravenswood) Ave & Montrose Ave,casual,18
+Central Park Ave & Bloomingdale Ave,casual,17
+Christiana Ave & Lawrence Ave,casual,17
+Ashland Ave & Chicago Ave,casual,17
+Francisco Ave & Foster Ave,casual,17
+Throop St & Taylor St,casual,17
+Western Ave & Fillmore St,casual,17
+Walsh Park,casual,17
+Racine Ave & Wrightwood Ave,casual,17
+St. Louis Ave & Fullerton Ave,casual,17
+Ogden Ave & Congress Pkwy,casual,17
+Lincoln Ave & Waveland Ave,casual,17
+Greenview Ave & Diversey Pkwy,casual,16
+Eastlake Ter & Rogers Ave,casual,15
+Ashland Ave & Augusta Blvd,casual,15
+Ashland Ave & Lake St,casual,15
+California Ave & Division St,casual,15
+Clark St & Bryn Mawr Ave,casual,15
+Laflin St & Cullerton St,casual,15
+Lake Park Ave & 35th St,casual,15
+Kosciuszko Park,casual,15
+Paulina St & Howard St,casual,15
+Milwaukee Ave & Rockwell St,casual,15
+Sawyer Ave & Irving Park Rd,casual,15
+Seeley Ave & Roscoe St,casual,14
+Sedgwick St & Schiller St,casual,14
+Richmond St & Diversey Ave,casual,14
+Morgan St & Polk St,casual,14
+Museum of Science and Industry,casual,14
+Loomis St & Archer Ave,casual,14
+Burnham Harbor,casual,14
+Broadway & Wilson Ave,casual,14
+Broadway & Argyle St,casual,13
+California Ave & Fletcher St,casual,13
+Chicago Ave & Washington St,casual,13
+Damen Ave & Sunnyside Ave,casual,13
+Halsted St & Archer Ave,casual,13
+Loomis St & Jackson Blvd,casual,13
+Leavitt St & Division St,casual,13
+Racine Ave & Washington Blvd,casual,13
+Warren Park West,casual,13
+Western Ave & 21st St,casual,13
+Washtenaw Ave & Lawrence Ave,casual,12
+LaSalle St & Adams St,casual,12
+Lake Park Ave & 47th St,casual,12
+Ogden Ave & Race Ave,casual,12
+Orleans St & Elm St,casual,12
+Halsted St & 18th St,casual,12
+Evanston Civic Center,casual,12
+Dearborn St & Adams St,casual,12
+Cannon Dr & Fullerton Ave,casual,12
+California Ave & Byron St,casual,12
+Canal St & Harrison St,casual,11
+Damen Ave & Clybourn Ave,casual,11
+Morgan St & 31st St,casual,11
+Racine Ave & 18th St,casual,11
+Leavitt St & Lawrence Ave,casual,11
+W Oakdale Ave & N Broadway,casual,11
+Racine Ave & Congress Pkwy,casual,11
+Shields Ave & 31st St,casual,11
+Western Blvd & 48th Pl,casual,11
+Western Ave & Leland Ave,casual,11
+South Shore Dr & 71st St,casual,10
+South Shore Dr & 74th St,casual,10
+Wells St & 19th St,casual,10
+Oakley Ave & Touhy Ave,casual,10
+Damen Ave & Walnut (Lake) St,casual,10
+Dorchester Ave & 49th St,casual,10
+Halsted St & North Branch St,casual,10
+Campbell Ave & Montrose Ave,casual,10
+California Ave & Francis Pl (Temp),casual,10
+Calumet Ave & 21st St,casual,10
+63rd St Beach,casual,10
+Ashland Ave & Archer Ave,casual,10
+Ashland Ave & 13th St,casual,9
+Claremont Ave & Hirsch St,casual,9
+Halsted St & 35th St,casual,9
+Emerald Ave & 31st St,casual,9
+Paulina St & Montrose Ave,casual,9
+MLK Jr Dr & Pershing Rd,casual,9
+MLK Jr Dr & 47th St,casual,9
+Lincoln Ave & Sunnyside Ave,casual,9
+Knox Ave & Montrose Ave,casual,9
+Wentworth Ave & Cermak Rd,casual,9
+Talman Ave & Addison St,casual,9
+Spaulding Ave & Division St,casual,9
+State St & 19th St,casual,9
+South Shore Dr & 67th St,casual,9
+Sheridan Rd & Greenleaf Ave,casual,9
+Western Ave & Roscoe St,casual,9
+Wood St & Taylor St (Temp),casual,8
+Spaulding Ave & Armitage Ave,casual,8
+Racine Ave & Randolph St,casual,8
+Ravenswood Ave & Irving Park Rd,casual,8
+State St & 35th St,casual,8
+Stony Island Ave & 64th St,casual,8
+Kedzie Ave & Leland Ave,casual,8
+Keystone Ave & Fullerton Ave,casual,8
+Milwaukee Ave & Cuyler Ave,casual,8
+May St & Cullerton St,casual,8
+McCormick Place,casual,8
+Greenview Ave & Jarvis Ave,casual,8
+Glenwood Ave & Touhy Ave,casual,8
+Harper Ave & 59th St,casual,8
+Indiana Ave & 26th St,casual,8
+Indiana Ave & 31st St,casual,8
+Kedzie Ave & Bryn Mawr Ave,casual,8
+Central Park Ave & North Ave,casual,8
+Canal St & Jackson Blvd,casual,8
+California Ave & Montrose Ave,casual,8
+Budlong Woods Library,casual,7
+Albany Ave & Montrose Ave,casual,7
+Calumet Ave & 51st St,casual,7
+Clinton St & 18th St,casual,7
+Kedzie Ave & Foster Ave,casual,7
+Greenwood Ave & 47th St,casual,7
+Damen Ave & Madison St,casual,7
+Damen Ave & Melrose Ave,casual,7
+Cottage Grove Ave & Oakwood Blvd,casual,7
+Prairie Ave & 43rd St,casual,7
+Prairie Ave & Garfield Blvd,casual,7
+Leavitt St & Addison St,casual,7
+Stony Island Ave & 71st St,casual,7
+State St & 79th St,casual,7
+Troy St & North Ave,casual,7
+Ravenswood Ave & Berteau Ave,casual,7
+Ridge Blvd & Touhy Ave,casual,6
+St. Louis Ave & Balmoral Ave,casual,6
+University Library (NU),casual,6
+Wentworth Ave & 24th St (Temp),casual,6
+Washtenaw Ave & Ogden Ave,casual,6
+Wabash Ave & Cermak Rd,casual,6
+Kimball Ave & Belmont Ave,casual,6
+Monticello Ave & Irving Park Rd,casual,6
+Damen Ave & Cullerton St,casual,6
+Damen Ave & Wellington Ave,casual,6
+Elston Ave & Wabansia Ave,casual,6
+Emerald Ave & 28th St,casual,6
+Elizabeth (May) St & Fulton St,casual,6
+Halsted St & 21st St,casual,6
+Jeffery Blvd & 71st St,casual,6
+Clark St & Schreiber Ave,casual,6
+Clark St & Touhy Ave,casual,6
+Clyde Ave & 87th St,casual,6
+Clinton St & Tilden St,casual,6
+Clark St & Jarvis Ave,casual,6
+Central Ave & Chicago Ave,casual,6
+Central St & Girard Ave,casual,6
+California Ave & 21st St,casual,6
+Western Ave & Lunt Ave,casual,6
+Western Ave & Howard St,casual,6
+Western Ave & Monroe St,casual,5
+Winchester (Ravenswood) Ave & Balmoral Ave,casual,5
+Avondale Ave & Irving Park Rd,casual,5
+Kedzie Ave & 21st St,casual,5
+Hoyne Ave & Balmoral Ave,casual,5
+Evans Ave & 75th St,casual,5
+Dodge Ave & Main St,casual,5
+Cottage Grove Ave & 71st St,casual,5
+Cottage Grove Ave & 43rd St,casual,5
+Cottage Grove Ave & 47th St,casual,5
+Princeton Ave & 47th St,casual,5
+Racine Ave & 13th St,casual,5
+Oakley Ave & Irving Park Rd,casual,5
+Ogden Ave & Roosevelt Rd,casual,5
+Wallace St & 35th St,casual,5
+Wentworth Ave & 33rd St,casual,5
+Troy St & Elston Ave,casual,5
+Smith Park,casual,5
+Ridge Blvd & Howard St,casual,5
+State St & 95th St,casual,4
+Wentworth Ave & 35th St,casual,4
+Phillips Ave & 79th St,casual,4
+Morgan Ave & 14th Pl,casual,4
+N Green St & W Lake St,casual,4
+Millard Ave & 26th St,casual,4
+Keystone Ave & Montrose Ave,casual,4
+Conservatory Dr & Lake St,casual,4
+Dauphin Ave & 87th St,casual,4
+Damen Ave & Pershing Rd,casual,4
+Dodge Ave & Mulford St,casual,4
+Drake Ave & Montrose Ave,casual,4
+Homewood Ave & 115th St,casual,4
+Jeffery Blvd & 67th St,casual,4
+Kedzie Ave & Chicago Ave,casual,4
+Halsted St & 69th St,casual,4
+Greenwood Ave & 91st St,casual,4
+Artesian Ave & Hubbard St,casual,4
+Ashland Ave & 63rd St,casual,4
+2112 W Peterson Ave,casual,4
+Central St Metra,casual,4
+Cicero Ave & Lake St,casual,4
+Central Park Blvd & 5th Ave,casual,4
+Central Ave & Lake St,casual,4
+Calumet Ave & 35th St,casual,4
+Cherry Ave & Blackhawk St,casual,3
+Avers Ave & Belmont Ave,casual,3
+Ashland Ave & Pershing Rd,casual,3
+Bernard St & Elston Ave,casual,3
+Big Marsh Park,casual,3
+Greenwood Ave & 97th St,casual,3
+Halsted St & 37th St,casual,3
+Elmwood Ave & Austin St,casual,3
+Indiana Ave & 40th St,casual,3
+East End Ave & 87th St,casual,3
+Cottage Grove Ave & 51st St,casual,3
+Kilbourn Ave & Irving Park Rd,casual,3
+Kedzie Ave & 110th St,casual,3
+Kedzie Ave & Lake St,casual,3
+Lincoln Ave & Addison St,casual,3
+Leavitt St & Belmont Ave,casual,3
+Malcolm X College,casual,3
+Manor Ave & Leland Ave,casual,3
+MLK Jr Dr & 56th St,casual,3
+Prospect Sq & 91st St,casual,3
+Normal Ave & Archer Ave,casual,3
+Wentworth Ave & 63rd St,casual,3
+Walden Pkwy & 100th St,casual,3
+Wabash Ave & 87th St,casual,3
+Rhodes Ave & 71st St,casual,3
+Rockwell St & Eastwood Ave,casual,3
+Western Ave & Congress Pkwy,casual,3
+Wood St & 35th St,casual,3
+Yates Blvd & 75th St,casual,3
+State St & 29th St,casual,2
+State St & 123rd St,casual,2
+Stewart Ave & 83rd St,casual,2
+Torrence Ave & 106th St,casual,2
+Stony Island Ave & 82nd St,casual,2
+Stony Island Ave & 90th St,casual,2
+Vernon Ave & 107th St,casual,2
+Vernon Ave & 75th St,casual,2
+Vernon Ave & 79th St,casual,2
+Racine Ave & 15th St,casual,2
+Racine Ave & 35th St,casual,2
+Princeton Ave & Garfield Blvd,casual,2
+Perry Ave & 69th St,casual,2
+Maplewood Ave & Peterson Ave,casual,2
+Lincolnwood Dr & Central St,casual,2
+Lawndale Ave & 111th St,casual,2
+Laramie Ave & Kinzie St,casual,2
+Laramie Ave & Madison St,casual,2
+Cottage Grove Ave & 67th St,casual,2
+Damen Ave & 51st St,casual,2
+Eberhart Ave & 61st St,casual,2
+Eberhart Ave & 91st St,casual,2
+Dorchester Ave & 63rd St,casual,2
+Drake Ave & Addison St,casual,2
+Indiana Ave & 103rd St,casual,2
+Kedzie Ave & Harrison St,casual,2
+Karlov Ave & Madison St,casual,2
+Hoyne Ave & 47th St,casual,2
+Halsted St & 63rd St,casual,2
+Halsted St & 73rd St,casual,2
+Greenwood Ave & 79th St,casual,2
+Broadway & Wilson - Truman College Vaccination Site,casual,2
+Burnham Greenway & 105th St,casual,2
+Ashland Ave & 50th St,casual,2
+Central Park Ave & Ogden Ave,casual,2
+Central Ave & Madison St,casual,1
+Central Ave & Harrison St,casual,1
+Commercial Ave & 100th St,casual,1
+Ashland Ave & 78th St,casual,1
+Albany Ave & 26th St,casual,1
+Baltimore Ave & 87th St,casual,1
+Bennett Ave & 79th St,casual,1
+Austin Blvd & Chicago Ave,casual,1
+Austin Blvd & Lake St,casual,1
+Avenue O & 118th St,casual,1
+California Ave & 23rd Pl,casual,1
+California Ave & Lake St,casual,1
+Bosworth Ave & Howard St,casual,1
+Halsted St & 78th St,casual,1
+Halsted St & 96th St,casual,1
+Fairfield Ave & Roosevelt Rd,casual,1
+Hegewisch Metra Station,casual,1
+Hermitage Ave & Polk St,casual,1
+Kedzie Ave & 24th St,casual,1
+DuSable Museum,casual,1
+Dodge Ave & Church St,casual,1
+Eggleston Ave & 69th St,casual,1
+Ellis Ave & 83rd St,casual,1
+Cottage Grove Ave & 78th St,casual,1
+Cottage Grove Ave & 63rd St,casual,1
+Cornell Dr & Hayes Dr,casual,1
+Cottage Grove Ave & 111th Pl,casual,1
+Dauphin Ave & 103rd St,casual,1
+Kedzie Ave & Roosevelt Rd,casual,1
+Kenton Ave & Madison St,casual,1
+Kostner Ave & Lake St,casual,1
+Marquette Ave & 89th St,casual,1
+Marshfield Ave & 44th St,casual,1
+Racine Ave & 61st St,casual,1
+Pulaski Rd & Congress Pkwy,casual,1
+Phillips Ave & 83rd St,casual,1
+Oglesby Ave & 100th St,casual,1
+MLK Jr Dr & 63rd St,casual,1
+MLK Jr Dr & 83rd St,casual,1
+N Paulina St & Lincoln Ave,casual,1
+Michigan Ave & 114th St,casual,1
+Vincennes Ave & 104th St,casual,1
+Union Ave & Root St,casual,1
+State St & 54th St,casual,1
+State St & Pershing Rd,casual,1
+Stony Island Ave & 75th St,casual,1
+Stony Island Ave & 67th St,casual,1
+Stewart Ave & 63rd St,casual,1
+Warren Park East,casual,1
+Wentworth Ave & 104th St,casual,1
+Western Ave & 24th St,casual,1
+Western Ave & Granville Ave,casual,1
+Shields Ave & 43rd St,casual,1
+Sacramento Blvd & Franklin Blvd,casual,1
+Rainbow Beach,casual,1
+Racine Ave & Garfield Blvd,casual,1
+Woodlawn Ave & 75th St,casual,1
+Wolcott Ave & Fargo Ave,casual,1

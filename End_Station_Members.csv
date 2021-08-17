@@ -1,0 +1,581 @@
+﻿end_station_name,member_casual,Number_of_Rides
+Dearborn St & Erie St,member,897
+Clark St & Elm St,member,817
+Kingsbury St & Kinzie St,member,687
+St. Clair St & Erie St,member,671
+Wells St & Huron St,member,612
+Wells St & Concord Ln,member,603
+McClurg Ct & Erie St,member,567
+Wabash Ave & Grand Ave,member,563
+Clinton St & Madison St,member,562
+Desplaines St & Kinzie St,member,557
+Wabash Ave & Roosevelt Rd,member,530
+Wells St & Elm St,member,514
+Broadway & Waveland Ave,member,502
+Broadway & Barry Ave,member,493
+Clark St & Schiller St,member,460
+Sheffield Ave & Kingsbury St,member,438
+Kingsbury St & Erie St,member,428
+Clark St & Wellington Ave,member,426
+Columbus Dr & Randolph St,member,425
+Dearborn St & Monroe St,member,421
+Clark St & Drummond Pl,member,418
+Green St & Madison St,member,414
+Mies van der Rohe Way & Chicago Ave,member,414
+Broadway & Cornelia Ave,member,407
+Franklin St & Illinois St,member,387
+Rush St & Superior St,member,385
+Wells St & Hubbard St,member,385
+Mies van der Rohe Way & Chestnut St,member,383
+Halsted St & Clybourn Ave,member,383
+Fairbanks Ct & Grand Ave,member,375
+Lincoln Ave & Fullerton Ave,member,364
+Clinton St & Washington Blvd,member,361
+Rush St & Cedar St,member,357
+Sedgwick St & Huron St,member,350
+Dearborn Pkwy & Delaware Pl,member,347
+Ellis Ave & 55th St,member,342
+Clark St & Armitage Ave,member,342
+Wilton Ave & Belmont Ave,member,341
+State St & Randolph St,member,338
+LaSalle St & Washington St,member,336
+Larrabee St & Webster Ave,member,336
+Federal St & Polk St,member,336
+Desplaines St & Jackson Blvd,member,334
+Clinton St & Lake St,member,334
+Ellis Ave & 60th St,member,332
+Fairbanks St & Superior St,member,330
+Wolcott Ave & Polk St,member,330
+Wabash Ave & 9th St,member,329
+Larrabee St & Kingsbury St,member,327
+Pine Grove Ave & Waveland Ave,member,325
+Sheridan Rd & Irving Park Rd,member,325
+Sheridan Rd & Montrose Ave,member,324
+Broadway & Belmont Ave,member,323
+Southport Ave & Roscoe St,member,321
+Clark St & Wrightwood Ave,member,320
+Canal St & Adams St,member,318
+Daley Center Plaza,member,318
+Wilton Ave & Diversey Pkwy,member,318
+Lakeview Ave & Fullerton Pkwy,member,318
+Paulina St & Flournoy St,member,314
+Michigan Ave & Lake St,member,314
+Kimbark Ave & 53rd St,member,311
+Ashland Ave & Division St,member,311
+University Ave & 57th St,member,310
+Michigan Ave & Washington St,member,305
+Franklin St & Monroe St,member,305
+Peoria St & Jackson Blvd,member,302
+Sheffield Ave & Willow St,member,302
+State St & Kinzie St,member,301
+Orleans St & Merchandise Mart Plaza,member,296
+Halsted St & Roscoe St,member,295
+Aberdeen St & Jackson Blvd,member,295
+New St & Illinois St,member,294
+Morgan St & Lake St,member,294
+Clark St & Newport St,member,290
+Milwaukee Ave & Grand Ave,member,288
+Clark St & Randolph St,member,287
+Franklin St & Chicago Ave,member,279
+Clark St & Lincoln Ave,member,274
+Burling St & Diversey Pkwy,member,273
+Indiana Ave & Roosevelt Rd,member,270
+Pine Grove Ave & Irving Park Rd,member,270
+Clark St & Lake St,member,269
+LaSalle St & Illinois St,member,268
+Clarendon Ave & Gordon Ter,member,266
+Wood St & Taylor St (Temp),member,265
+LaSalle Dr & Huron St,member,263
+Wells St & Polk St,member,263
+Lincoln Ave & Diversey Pkwy,member,262
+Ogden Ave & Race Ave,member,262
+Franklin St & Lake St,member,262
+Aberdeen St & Monroe St,member,260
+Halsted St & Polk St,member,259
+Lake Shore Dr & Belmont Ave,member,259
+Southport Ave & Waveland Ave,member,258
+Clinton St & Jackson Blvd,member,258
+Franklin St & Jackson Blvd,member,257
+Greenview Ave & Fullerton Ave,member,256
+Halsted St & Dickens Ave,member,255
+Bissell St & Armitage Ave,member,255
+Sedgwick St & Webster Ave,member,255
+Sheffield Ave & Wellington Ave,member,253
+Clark St & Leland Ave,member,250
+Clarendon Ave & Junior Ter,member,242
+Racine Ave & Fullerton Ave,member,242
+Damen Ave & Pierce Ave,member,240
+LaSalle St & Jackson Blvd,member,239
+Lake Shore Dr & Ohio St,member,235
+Lake Shore Dr & Wellington Ave,member,233
+Sedgwick St & North Ave,member,232
+Loomis St & Lexington St,member,231
+Michigan Ave & 14th St,member,231
+Stockton Dr & Wrightwood Ave,member,230
+Clark St & Winnemac Ave,member,230
+Ritchie Ct & Banks St,member,227
+Larrabee St & Division St,member,226
+Broadway & Sheridan Rd,member,226
+Damen Ave & Chicago Ave,member,226
+Sheffield Ave & Waveland Ave,member,225
+Ravenswood Ave & Lawrence Ave,member,224
+Halsted St & Wrightwood Ave,member,224
+Clark St & Chicago Ave,member,222
+Green St & Randolph St,member,221
+Lincoln Ave & Roscoe St,member,221
+Orleans St & Hubbard St,member,221
+Michigan Ave & Madison St,member,219
+Field Blvd & South Water St,member,219
+Cityfront Plaza Dr & Pioneer Ct,member,219
+Wells St & Evergreen Ave,member,218
+Michigan Ave & 18th St,member,214
+Ellis Ave & 58th St,member,210
+Michigan Ave & Oak St,member,204
+Wabash Ave & Wacker Pl,member,202
+Orleans St & Chestnut St (NEXT Apts),member,197
+Dearborn St & Adams St,member,197
+Clark St & Grace St,member,197
+Dayton St & North Ave,member,196
+Lincoln Ave & Belmont Ave,member,195
+Sheffield Ave & Webster Ave,member,194
+Ellis Ave & 53rd St,member,194
+Sheffield Ave & Fullerton Ave,member,193
+Ada St & Washington Blvd,member,192
+Wood St & Milwaukee Ave,member,192
+Wacker Dr & Washington St,member,190
+Noble St & Milwaukee Ave,member,188
+Sheffield Ave & Wrightwood Ave,member,187
+State St & Pearson St,member,187
+Desplaines St & Randolph St,member,187
+Ogden Ave & Chicago Ave,member,186
+Lake Shore Dr & Diversey Pkwy,member,186
+Larrabee St & Oak St,member,185
+Clinton St & Roosevelt Rd,member,184
+Woodlawn Ave & 55th St,member,180
+Sheridan Rd & Buena Ave,member,177
+Paulina Ave & North Ave,member,176
+Wabash Ave & 16th St,member,175
+Ashland Ave & Blackhawk St,member,175
+State St & 33rd St,member,172
+Lake Park Ave & 56th St,member,172
+Clifton Ave & Armitage Ave,member,170
+Clark St & Berwyn Ave,member,169
+Larrabee St & Armitage Ave,member,169
+Michigan Ave & Pearson St,member,169
+Morgan St & Polk St,member,167
+Milwaukee Ave & Wabansia Ave,member,167
+Western Ave & Winnebago Ave,member,166
+Wabash Ave & Adams St,member,165
+Southport Ave & Wellington Ave,member,165
+Southport Ave & Belmont Ave,member,165
+Rush St & Hubbard St,member,164
+Racine Ave & 18th St,member,162
+May St & Taylor St,member,158
+Shore Dr & 55th St,member,158
+Western Ave & Walton St,member,154
+Canal St & Madison St,member,154
+Lake Shore Dr & North Blvd,member,153
+Marshfield Ave & Cortland St,member,150
+Stetson Ave & South Water St,member,149
+Damen Ave & Cortland St,member,149
+Honore St & Division St,member,147
+Lakefront Trail & Bryn Mawr Ave,member,146
+MLK Jr Dr & 29th St,member,145
+Wells St & Walton St,member,145
+Eckhart Park,member,145
+Millennium Park,member,144
+Clark St & 9th St (AMLI),member,142
+Clark St & Ida B Wells Dr,member,141
+Damen Ave & Division St,member,141
+Broadway & Wilson Ave,member,138
+Lake Shore Dr & Monroe St,member,137
+Financial Pl & Ida B Wells Dr,member,136
+Franklin St & Adams St (Temp),member,135
+Halsted St & Willow St,member,134
+Broadway & Berwyn Ave,member,134
+Lincoln Ave & Waveland Ave,member,134
+Throop St & Taylor St,member,134
+Southport Ave & Irving Park Rd,member,133
+Theater on the Lake,member,132
+Ashland Ave & 13th St,member,132
+Clybourn Ave & Division St,member,131
+Ravenswood Ave & Irving Park Rd,member,131
+Lincoln Ave & Belle Plaine Ave,member,130
+Michigan Ave & 8th St,member,130
+Racine Ave & Belmont Ave,member,130
+Clarendon Ave & Leland Ave,member,130
+Ashland Ave & Wellington Ave,member,130
+Clark St & North Ave,member,125
+Sangamon St & Washington Blvd,member,124
+Calumet Ave & 18th St,member,123
+Southport Ave & Clybourn Ave,member,122
+Canal St & Taylor St,member,121
+Blue Island Ave & 18th St,member,121
+Kedzie Ave & Milwaukee Ave,member,121
+Ashland Ave & Chicago Ave,member,119
+Broadway & Granville Ave,member,118
+Jefferson St & Monroe St,member,118
+Cornell Ave & Hyde Park Blvd,member,118
+State St & Van Buren St,member,118
+State St & Harrison St,member,118
+Wood St & Chicago Ave,member,116
+Leavitt St & Chicago Ave,member,116
+Aberdeen St & Randolph St,member,116
+Burnham Harbor,member,115
+Southport Ave & Wrightwood Ave,member,115
+Broadway & Thorndale Ave,member,114
+Harper Ave & 59th St,member,114
+Eastlake Ter & Rogers Ave,member,111
+Broadway & Ridge Ave,member,111
+Clark St & Bryn Mawr Ave,member,111
+Western Ave & Division St,member,110
+Streeter Dr & Grand Ave,member,110
+Damen Ave & Clybourn Ave,member,109
+Carpenter St & Huron St,member,108
+Damen Ave & Thomas St (Augusta Blvd),member,107
+Racine Ave & Wrightwood Ave,member,107
+Logan Blvd & Elston Ave,member,107
+Larrabee St & North Ave,member,106
+Emerald Ave & 31st St,member,106
+Ashland Ave & Augusta Blvd,member,106
+Broadway & Argyle St,member,104
+Greenview Ave & Diversey Pkwy,member,104
+Loomis St & Jackson Blvd,member,104
+State St & 35th St,member,104
+Wolcott (Ravenswood) Ave & Montrose Ave,member,104
+Winthrop Ave & Lawrence Ave,member,102
+Lincoln Park Conservatory,member,102
+Marine Dr & Ainslie St,member,102
+Orleans St & Elm St,member,102
+Michigan Ave & Ida B Wells Dr,member,102
+Greenview Ave & Jarvis Ave,member,102
+Benson Ave & Church St,member,101
+LaSalle St & Adams St,member,101
+Rockwell St & Eastwood Ave,member,101
+Western Ave & Leland Ave,member,100
+Racine Ave & Washington Blvd,member,100
+Blackstone Ave & Hyde Park Blvd,member,100
+California Ave & Milwaukee Ave,member,99
+900 W Harrison St,member,99
+Leavitt St & North Ave,member,98
+Sheridan Rd & Lawrence Ave,member,96
+Campbell Ave & North Ave,member,96
+Elizabeth (May) St & Fulton St,member,96
+Dearborn St & Van Buren St,member,96
+Delano Ct & Roosevelt Rd,member,95
+Walsh Park,member,95
+Larrabee St & Menomonee St,member,93
+Damen Ave & Leland Ave,member,93
+Canal St & Jackson Blvd,member,93
+Damen Ave & Charleston St,member,92
+Leavitt St & Armitage Ave,member,91
+Racine Ave & Randolph St,member,91
+Lake Park Ave & 53rd St,member,88
+Paulina St & 18th St,member,87
+Ashland Ave & Grace St,member,87
+Chicago Ave & Washington St,member,86
+Leavitt St & Division St,member,86
+Michigan Ave & Jackson Blvd,member,84
+Western Ave & Fillmore St,member,84
+California Ave & North Ave,member,84
+California Ave & Altgeld St,member,84
+Dusable Harbor,member,83
+Calumet Ave & 33rd St,member,80
+Washtenaw Ave & Lawrence Ave,member,79
+Sheridan Rd & Noyes St (NU),member,78
+Glenwood Ave & Morse Ave,member,78
+Seeley Ave & Roscoe St,member,76
+Ravenswood Ave & Berteau Ave,member,75
+Clinton St & 18th St,member,75
+Indiana Ave & 31st St,member,74
+Damen Ave & Grand Ave,member,74
+Ashland Ave & Grand Ave,member,73
+Lincoln Ave & Sunnyside Ave,member,73
+Southport Ave & Clark St,member,72
+Indiana Ave & 26th St,member,72
+Canal St & Monroe St,member,70
+Clark St & Columbia Ave,member,69
+Clark St & Montrose Ave,member,69
+California Ave & Cortez St,member,69
+Stave St & Armitage Ave,member,69
+Wentworth Ave & Cermak Rd,member,69
+Montrose Harbor,member,69
+Fort Dearborn Dr & 31st St,member,68
+Halsted St & Maxwell St,member,67
+Central Park Ave & Elbridge Ave,member,67
+California Ave & Division St,member,66
+Adler Planetarium,member,65
+Clark St & Elmdale Ave,member,65
+Western Ave & 21st St,member,64
+Wood St & Augusta Blvd,member,64
+Ogden Ave & Congress Pkwy,member,63
+Halsted St & Roosevelt Rd,member,63
+University Library (NU),member,61
+Humboldt Blvd & Armitage Ave,member,60
+Campbell Ave & Montrose Ave,member,60
+Campbell Ave & Fullerton Ave,member,59
+Ashland Ave & Wrightwood Ave,member,59
+Glenwood Ave & Touhy Ave,member,59
+Morgan St & 31st St,member,59
+Morgan Ave & 14th Pl,member,58
+Sheridan Rd & Loyola Ave,member,58
+Lincoln Ave & Addison St,member,57
+Damen Ave & Walnut (Lake) St,member,57
+Damen Ave & Foster Ave,member,56
+Elston Ave & Wabansia Ave,member,56
+Sheridan Rd & Columbia Ave,member,56
+South Shore Dr & 74th St,member,56
+Shields Ave & 31st St,member,55
+Clark St & Lunt Ave,member,55
+Clinton St & Tilden St,member,55
+Damen Ave & Wellington Ave,member,53
+Leavitt St & Lawrence Ave,member,53
+Paulina St & Howard St,member,53
+Sedgwick St & Schiller St,member,52
+Emerald Ave & 28th St,member,52
+California Ave & Francis Pl (Temp),member,52
+Kedzie Ave & Chicago Ave,member,51
+Racine Ave & Congress Pkwy,member,51
+Leavitt St & Belmont Ave,member,49
+Lincoln Ave & Winona St,member,49
+Halsted St & Archer Ave,member,49
+Oakley Ave & Irving Park Rd,member,48
+Shedd Aquarium,member,48
+Smith Park,member,47
+Paulina St & Montrose Ave,member,47
+Lakefront Trail & Wilson Ave,member,46
+Sheridan Rd & Greenleaf Ave,member,46
+Wood St & Hubbard St,member,45
+Calumet Ave & 35th St,member,45
+Albany Ave & Montrose Ave,member,44
+Clark St & Schreiber Ave,member,44
+Valli Produce - Evanston Plaza,member,44
+Wabash Ave & Cermak Rd,member,43
+Winchester Ave & Elston Ave,member,43
+Ashland Ave & Belle Plaine Ave,member,43
+Albany Ave & Bloomingdale Ave,member,43
+Halsted St & 18th St,member,42
+Troy St & North Ave,member,42
+Wentworth Ave & 24th St (Temp),member,41
+Normal Ave & Archer Ave,member,41
+Morgan St & 18th St,member,41
+Kedzie Ave & Palmer Ct,member,40
+Canal St & Harrison St,member,40
+Damen Ave & Madison St,member,39
+Museum of Science and Industry,member,39
+South Shore Dr & 67th St,member,39
+Spaulding Ave & Armitage Ave,member,39
+Western Ave & Granville Ave,member,38
+Milwaukee Ave & Rockwell St,member,38
+Clinton St & Polk St,member,38
+Hoyne Ave & Balmoral Ave,member,37
+Lake Park Ave & 47th St,member,37
+Washtenaw Ave & Ogden Ave,member,37
+Western Ave & Monroe St,member,35
+Western Ave & Roscoe St,member,35
+Central Ave & Chicago Ave,member,35
+California Ave & Fletcher St,member,35
+California Ave & Byron St,member,34
+Central Park Ave & Bloomingdale Ave,member,34
+Greenwood Ave & 47th St,member,34
+Chicago Ave & Sheridan Rd,member,33
+Winchester (Ravenswood) Ave & Balmoral Ave,member,33
+Western Ave & Lunt Ave,member,33
+Richmond St & Diversey Ave,member,32
+May St & Cullerton St,member,32
+Loomis St & Archer Ave,member,32
+Kimball Ave & Belmont Ave,member,31
+Rhodes Ave & 32nd St,member,31
+Cannon Dr & Fullerton Ave,member,31
+Avondale Ave & Irving Park Rd,member,31
+Bernard St & Elston Ave,member,30
+Claremont Ave & Hirsch St,member,30
+Francisco Ave & Foster Ave,member,30
+Damen Ave & Melrose Ave,member,30
+State St & 19th St,member,30
+Shields Ave & 28th Pl,member,29
+Troy St & Elston Ave,member,29
+Kosciuszko Park,member,29
+Christiana Ave & Lawrence Ave,member,29
+Ashland Ave & Lake St,member,29
+2112 W Peterson Ave,member,29
+California Ave & Montrose Ave,member,29
+Damen Ave & Pershing Rd,member,28
+Racine Ave & 13th St,member,28
+Wallace St & 35th St,member,28
+Damen Ave & Sunnyside Ave,member,27
+Elmwood Ave & Austin St,member,27
+McCormick Place,member,26
+Manor Ave & Leland Ave,member,26
+Leavitt St & Addison St,member,25
+St. Louis Ave & Fullerton Ave,member,25
+Damen Ave & Cullerton St,member,25
+Halsted St & 35th St,member,25
+Cherry Ave & Blackhawk St,member,25
+Clark St & Jarvis Ave,member,24
+63rd St Beach,member,24
+Wells St & 19th St,member,24
+Talman Ave & Addison St,member,24
+Western Ave & 24th St,member,24
+Lincolnwood Dr & Central St,member,24
+Laflin St & Cullerton St,member,23
+California Ave & 21st St,member,23
+Calumet Ave & 21st St,member,23
+Halsted St & North Branch St,member,22
+Kedzie Ave & Bryn Mawr Ave,member,22
+Fairfield Ave & Roosevelt Rd,member,22
+MLK Jr Dr & Pershing Rd,member,22
+Western Ave & Congress Pkwy,member,22
+Wentworth Ave & 33rd St,member,21
+Western Ave & Howard St,member,21
+Monticello Ave & Irving Park Rd,member,21
+Base - 2132 W Hubbard Warehouse,member,21
+Central St Metra,member,20
+Dorchester Ave & 49th St,member,20
+Central St & Girard Ave,member,19
+Buckingham Fountain,member,19
+Pulaski Rd & Eddy St (Temp),member,19
+Leavitt St & Archer Ave,member,19
+Woodlawn Ave & Lake Park Ave,member,19
+Prairie Ave & 43rd St,member,18
+Ogden Ave & Roosevelt Rd,member,18
+Artesian Ave & Hubbard St,member,18
+Field Museum,member,18
+Kedzie Ave & Lake St,member,18
+Eggleston Ave & 69th St,member,17
+Cottage Grove Ave & Oakwood Blvd,member,17
+Malcolm X College,member,17
+Milwaukee Ave & Cuyler Ave,member,16
+Warren Park East,member,16
+Halsted St & 47th Pl,member,16
+Broadway & Wilson - Truman College Vaccination Site,member,16
+Kedzie Ave & Foster Ave,member,15
+Kedzie Ave & 21st St,member,15
+DuSable Museum,member,15
+Sawyer Ave & Irving Park Rd,member,15
+Sacramento Blvd & Franklin Blvd,member,15
+Spaulding Ave & Division St,member,14
+Halsted St & 21st St,member,14
+Bosworth Ave & Howard St,member,14
+Ashland Ave & Archer Ave,member,14
+Central Park Ave & Ogden Ave,member,14
+Hoyne Ave & 47th St,member,13
+Morgan St & Pershing Rd,member,13
+Racine Ave & 35th St,member,13
+Racine Ave & 15th St,member,12
+South Shore Dr & 71st St,member,12
+Stony Island Ave & 75th St,member,12
+Western Blvd & 48th Pl,member,12
+Kedzie Ave & Leland Ave,member,12
+Evanston Civic Center,member,12
+Cottage Grove Ave & 47th St,member,12
+Cottage Grove Ave & 51st St,member,12
+Avers Ave & Belmont Ave,member,12
+California Ave & 26th St,member,12
+Calumet Ave & 51st St,member,11
+Damen Ave & Coulter St,member,11
+Dodge Ave & Church St,member,11
+Warren Park West,member,11
+W Oakdale Ave & N Broadway,member,11
+Maplewood Ave & Peterson Ave,member,11
+Prairie Ave & Garfield Blvd,member,10
+Cottage Grove Ave & 43rd St,member,10
+Jeffery Blvd & 67th St,member,10
+California Ave & 23rd Pl,member,10
+Bradley Park,member,9
+Budlong Woods Library,member,9
+Central Park Blvd & 5th Ave,member,9
+Central Park Ave & North Ave,member,9
+Indiana Ave & 40th St,member,9
+Dodge Ave & Main St,member,9
+Perry Ave & 69th St,member,9
+Wood St & 35th St,member,9
+Wentworth Ave & 35th St,member,8
+Stony Island Ave & 82nd St,member,8
+Jeffery Blvd & 71st St,member,8
+Halsted St & 37th St,member,8
+California Ave & Lake St,member,8
+Yates Blvd & 75th St,member,8
+Dorchester Ave & 63rd St,member,7
+Drake Ave & Montrose Ave,member,7
+Ridge Blvd & Touhy Ave,member,7
+Lake Park Ave & 35th St,member,7
+Knox Ave & Montrose Ave,member,7
+Rainbow Beach,member,6
+Eberhart Ave & 61st St,member,6
+Conservatory Dr & Lake St,member,6
+Keystone Ave & Fullerton Ave,member,6
+Keystone Ave & Montrose Ave,member,6
+Ashland Ave & McDowell Ave,member,6
+Austin Blvd & Lake St,member,6
+Archer (Damen) Ave & 37th St,member,6
+Central Park Ave & 24th St,member,6
+Clark St & Touhy Ave,member,5
+Cottage Grove Ave & 63rd St,member,5
+Drake Ave & Addison St,member,5
+Union Ave & Root St,member,5
+Wolcott Ave & Fargo Ave,member,5
+Kilbourn Ave & Milwaukee Ave,member,5
+Malcolm X College Vaccination Site,member,5
+MLK Jr Dr & 47th St,member,5
+N Green St & W Lake St,member,4
+Ridge Blvd & Howard St,member,4
+Kilbourn Ave & Irving Park Rd,member,4
+Kedzie Ave & Roosevelt Rd,member,4
+Kedzie Ave & 24th St,member,4
+Halsted St & 69th St,member,4
+Albany Ave & 26th St,member,4
+Burnham Greenway & 105th St,member,4
+Austin Blvd & Madison St,member,3
+Austin Blvd & Chicago Ave,member,3
+Commercial Ave & 83rd St,member,3
+Ewing Ave & Burnham Greenway,member,3
+State St & 29th St,member,3
+State St & 95th St,member,3
+State St & Pershing Rd,member,3
+Western Ave & 28th St,member,3
+Stony Island Ave & 90th St,member,3
+MLK Jr Dr & 56th St,member,3
+Marshfield Ave & 44th St,member,3
+Latrobe Ave & Chicago Ave,member,3
+Kildare Ave & Montrose Ave,member,3
+Oakley Ave & Touhy Ave,member,2
+Princeton Ave & 47th St,member,2
+Princeton Ave & Garfield Blvd,member,2
+Stony Island Ave & South Chicago Ave,member,2
+St. Louis Ave & Balmoral Ave,member,2
+Seeley Ave & Garfield Blvd,member,2
+Greenwood Ave & 97th St,member,2
+Kenton Ave & Madison St,member,2
+Central Ave & Lake St,member,2
+Ashland Ave & Pershing Rd,member,2
+Baltimore Ave & 87th St,member,1
+Bennett Ave & 79th St,member,1
+Calumet Ave & 71st St,member,1
+Cicero Ave & Flournoy St,member,1
+Jeffery Blvd & 76th St,member,1
+Karlov Ave & Madison St,member,1
+Indiana Ave & 103rd St,member,1
+Hegewisch Metra Station,member,1
+Hermitage Ave & Polk St,member,1
+Hale Ave & 107th St,member,1
+Halsted St & 51st St,member,1
+Halsted St & 56th St,member,1
+Halsted St & 78th St,member,1
+Greenwood Ave & 91st St,member,1
+Eggleston Ave & 92nd St,member,1
+Elizabeth St & 47th St,member,1
+East End Ave & 87th St,member,1
+Cottage Grove Ave & 78th St,member,1
+Dauphin Ave & 103rd St,member,1
+Dauphin Ave & 87th St,member,1
+State St & 54th St,member,1
+State St & 79th St,member,1
+Stewart Ave & 63rd St,member,1
+Stony Island Ave & 64th St,member,1
+W Armitage Ave & N Sheffield Ave,member,1
+Oglesby Ave & 100th St,member,1
+N Southport Ave & W Newport Ave,member,1
+N Damen Ave & W Wabansia St,member,1
+Millard Ave & 26th St,member,1
+Kostner Ave & Adams St,member,1
